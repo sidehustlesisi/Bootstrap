@@ -1,0 +1,2 @@
+# Bootstrap
+Shopify Theme
